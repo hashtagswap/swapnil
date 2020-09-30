@@ -7,4 +7,4 @@ function newcolor(){
     document.getElementById('demo').style.backgroundColor=color;
     document.getElementById('color-code').innerHTML=color;
 
-}
+};
